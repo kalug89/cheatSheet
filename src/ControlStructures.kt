@@ -4,8 +4,8 @@ fun main(args: Array<String>) {
 
     // For loop with list
 
-    // When expression | fun numberType
+    // When expression | fun numberType | 4 thinks + else
 
-    // When expression with predicates | > < =
+    // When expression with predicates | > < = | signAsString 
 
 }
